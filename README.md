@@ -218,7 +218,7 @@ desafio-github-markdown/
 
 ## 👤 Autor
 
-Feito com 💙 por **Igor** — estudante de Ciência da Computação.
+Feito por **Igor** — estudante de Ciência da Computação.
 
 [![GitHub](https://img.shields.io/badge/GitHub-IgorASB-181717?style=flat&logo=github)](https://github.com/IgorASB)
 [![Linguagem](https://img.shields.io/badge/Linguagem-C-00599C?style=flat&logo=c)](https://en.cppreference.com/w/c)
